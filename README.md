@@ -1,4 +1,4 @@
-### Hello there! My name is Daniel Rivera, IT student at Miami Dade College. I enjoy practical code to help me with everyday life, things that suit my interests, and scripting. Here is a link to [my website](https://drivera.xyz/).
+### Hello there! My name is Daniel Rivera. I enjoy practical code to help me with everyday life, things that suit my interests, and scripting. Here is a link to [my website](https://drivera.xyz/).
 
 <!--
 **drivera021/drivera021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
