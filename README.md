@@ -14,6 +14,11 @@ I love baseball, playing dominoes, and eating food from the Caribbean. I'm super
 
 ## 💼 Work Experience
 
+- **Systems Administrator at Miami Shores Village** (November 2024 - Present)
+  - Manages and secures IT infrastructure for Village departments, ensuring compliance with regulatory standards.
+  - Provides technical support, conducts system audits, and implements cybersecurity measures to safeguard data and networks.
+  - Optimizes infrastructure by managing servers, networks, and critical IT systems for operational efficiency.
+
 - **Cybersecurity Intern at Ocean Bank** (June 2024 - August 2024)
   - Focused on IT, Cybersecurity, and Regulatory Risk.
   - Conducted application frameworks, GLBA risk assessments, and BSA-AML alerts.
@@ -38,6 +43,7 @@ I love baseball, playing dominoes, and eating food from the Caribbean. I'm super
 - **Ocean Bank** Information Security, Privacy, Fraud Investigation** (June 2024)
 - **ISC2** Certified in Cybersecurity (Sep. 2024)
 - **CompTIA** Network+ N10-008 (Oct. 2024)
+- **CompTIA** Security+ SY0-701 (Nov. 2024)
 
 ## 🌱 Groups
 
