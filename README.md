@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Daniel Rivera
 
-🔗 **[Website](https://drivera.xyz)** | [LinkedIn](https://linkedin.com/in/drivera021)
+🔗 **[Website](https://drivera.xyz)** | [LinkedIn](https://linkedin.com/in/drivera021) | [Credly](https://www.credly.com/users/daniel-rivera.8421f267)
 
 ---
 
@@ -30,13 +30,6 @@ I love baseball, playing dominoes, and eating food from the Caribbean. I'm super
 - **Math Tutor at Miami Dade College, Asbury Christian School, Sylvan** (2018 - 2023)
   - Helped students excel in mathematics through tailored tutoring sessions.
 
-## 🛠 Technical Skills
-
-- **Networking & Security:** Configuring and maintaining servers and workstations (Windows, Linux), installing networking equipment (switches, APs, firewalls), and conducting IT Risk Assessments.
-- **Scripting & Programming:** Proficient in Bash, CMD, with experience in Python, C++, and SQL.
-- **Vulnerability Testing:** Using tools like Burp Suite, Nessus, Legion, Nmap for vulnerability scanning and testing.
-- **Packet Analysis:** Experienced with Wireshark, WAF Logs, Snort, and CyberChef.
-
 ## 🎓 Certifications
 
 - **AWS** Certified Cloud Practitioner (Oct. 2022)
@@ -45,22 +38,16 @@ I love baseball, playing dominoes, and eating food from the Caribbean. I'm super
 - **CompTIA** Network+ N10-008 (Oct. 2024)
 - **CompTIA** Security+ SY0-701 (Nov. 2024)
 
+## 🛠 Technical Skills
+
+- **Networking & Security:** Configuring and maintaining servers and workstations (Windows, Linux), installing networking equipment (switches, APs, firewalls), and conducting IT Risk Assessments.
+- **Scripting & Programming:** Proficient in Bash, CMD, with experience in Python, C++, and SQL.
+- **Vulnerability Testing:** Using tools like Burp Suite, Nessus, Legion, Nmap for vulnerability scanning and testing.
+- **Packet Analysis:** Experienced with Wireshark, WAF Logs, Snort, and CyberChef.
+
+
 ## 🌱 Groups
 
 - **[All In Open Source Initiative](https://github.com/AllInOpenSource/All-In-For-Students-Graduation-2023):** Part of GitHub’s “All In” open-source initiative, Class of 2023.
 
 ---
-<!--
-**drivera021/drivera021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
