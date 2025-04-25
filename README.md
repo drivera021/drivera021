@@ -14,7 +14,7 @@ I love baseball, playing dominoes, and eating food from the Caribbean. I'm super
 
 ## 💼 Work Experience
 
-- **Systems Administrator at Miami Shores Village** (November 2024 - Present)
+- **Systems Administrator at Miami Shores Village** (November 2024 - March 2025)
   - Manages and secures IT infrastructure for Village departments, ensuring compliance with regulatory standards.
   - Provides technical support, conducts system audits, and implements cybersecurity measures to safeguard data and networks.
   - Optimizes infrastructure by managing servers, networks, and critical IT systems for operational efficiency.
