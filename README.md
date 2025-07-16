@@ -13,7 +13,7 @@ I’m a recent graduate with a Bachelor of Science in Information Systems Techno
 I love baseball, playing dominoes, and eating food from the Caribbean. I'm super proud of my Puerto Rican-Dominican hertiage and love exploring new cultures and food in my free time. I was raised in a family of musicians, so we were raised to play music and enjoy our musical roots.
 
 ## 💼 Work Experience
-- ** IT Technician at Sherwood Aviation** (May 2025 - Present)
+- **IT Technician at Sherwood Aviation** (May 2025 - Present)
   - Helped write an SSP to reach DoD CMMC 2.0 Compliance.
 
 - **Systems Administrator at Miami Shores Village** (November 2024 - March 2025)
